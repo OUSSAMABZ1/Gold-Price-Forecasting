@@ -1,6 +1,6 @@
 ---
 title: "Modélisation des Séries Temporelles - Prix de l'or"
-author: "Oussama Bouzalim"
+author: ""
 date: "2023-10-11"
 output:
   html_document:
